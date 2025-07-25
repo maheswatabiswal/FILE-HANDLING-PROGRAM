@@ -79,3 +79,7 @@ Each task gave me deep practical insights into different aspects of system-level
 OUTPUT 1
 
 <img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/ca0b1e5c-d90f-460a-bdc4-c08373d79a8c" />
+
+OUTPUT 2
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/63e94340-4996-4c17-b86c-b1c37a755b32" />
