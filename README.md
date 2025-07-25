@@ -88,3 +88,6 @@ OUTPUT 3
 
 <img width="1917" height="1016" alt="Image" src="https://github.com/user-attachments/assets/090e1133-cf7e-4187-8411-4584ec944123" />
 
+OUTPUT 4
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/42750b52-1840-40ce-856d-07548271ff14" />
