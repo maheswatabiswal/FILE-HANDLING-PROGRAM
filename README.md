@@ -75,3 +75,7 @@ Compression tools are used to reduce storage space and improve data transfer eff
 Conclusion:
 
 Each task gave me deep practical insights into different aspects of system-level programming and software development. I preferred using C language due to its low-level capabilities and speed, and I developed these programs on both Linux and Windows platforms to ensure cross-platform compatibility. These tasks are directly applicable in software engineering, compiler development, data management, and networked systems, making them foundational for both academic and industry-level projects.
+
+OUTPUT 1
+
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/ca0b1e5c-d90f-460a-bdc4-c08373d79a8c" />
