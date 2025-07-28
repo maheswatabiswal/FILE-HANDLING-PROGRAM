@@ -49,3 +49,6 @@ This task builds core skills necessary for careers in backend development, syste
 
 Overall, this task not only strengthened my understanding of file handling in C but also helped me develop structured thinking for building user-friendly and practical applications.
 
+*OUTPUT*:
+
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/5541de7b-2562-4e5d-8163-1b5b94b7d24a" />
